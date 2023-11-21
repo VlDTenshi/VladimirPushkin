@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\.github\\workflows"
   ],
-  "SelectedNode": "\\C:\\Users\\thevl\\Source\\Repos\\VlDTenshi\\VladimirPushkin",
+  "SelectedNode": "\\.github\\workflows\\mail-on-push.yml",
   "PreviewInSolutionExplorer": false
 }
